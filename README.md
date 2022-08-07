@@ -1,4 +1,5 @@
 # gymzilla
+GymZilla is a website based out of html and php using bootstrap, for interface, and MySQL for storing the data, which helps the users access plans and excercies and helps them customize a diet for them so that they can stay fit, and keep up their BMI. This project helps us stay on track with the Fit India Movement, 2019.
 
 #Update-
 The project is development is in progress
